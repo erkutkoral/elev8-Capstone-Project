@@ -95,4 +95,4 @@ Attributes of review table are as following:
 
 ## Authors
 
-* **Erkut Koral** - *Industrial Engineer Student* - [LınkedIn](https://www.linkedin.com/in/erkutkoral/)
+* **Erkut Koral** - [LınkedIn](https://www.linkedin.com/in/erkutkoral/)
